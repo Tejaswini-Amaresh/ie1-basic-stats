@@ -1,4 +1,5 @@
 # Basic Statistics
+Contains a Java based application for the Software Engineering 520 course.
 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
 This implementation is intended to be used in software engineering courses as
@@ -25,6 +26,8 @@ Basic Statistics uses the Apache Ant build system. **Make sure that you have [An
 * Computes the mean of the set of numbers.
 * Computes the median of the set of numbers.
 * Computes the mode of the set of numbers.
+* Computes the minimum of the set of numbers.
+* Computes the maximum of the set of numbers.
 
 ## Troubleshooting
 
